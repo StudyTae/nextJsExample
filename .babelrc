@@ -1,0 +1,7 @@
+// 바벨 커스텀 마이징 
+{
+    "presets": [
+        "next/babel",
+        "stage-0"
+    ]
+}

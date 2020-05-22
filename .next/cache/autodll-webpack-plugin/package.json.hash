@@ -1,0 +1,1 @@
+{"name":"hello-text-react-next","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"dev":"next"},"dependencies":{"axios":"^0.19.2","next":"^9.4.2","react":"^16.13.1","react-dom":"^16.13.1"},"readme":"ERROR: No README data found!","_id":"hello-text-react-next@1.0.0"}
